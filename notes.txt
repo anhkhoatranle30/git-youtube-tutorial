@@ -1,3 +1,4 @@
+(feature) first line
 Open after first commit
 Edited by other branch
 (master) bottom line
